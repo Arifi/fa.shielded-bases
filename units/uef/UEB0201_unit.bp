@@ -55,17 +55,3 @@ UnitBlueprint {
     },
 
 }
-
--- T2 Shield 			UEB4202
--- UnitBlueprint {
-    -- Merge = true,
-    -- BlueprintId = "ueb4202",
-
--- }
-
--- T2 Support factory
--- UnitBlueprint {
-    -- Merge = true,
-    -- BlueprintId = "zeb9501",
-
--- }
