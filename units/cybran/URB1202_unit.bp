@@ -29,7 +29,7 @@ UnitBlueprint {
             ShieldRegenRate = 45,
             ShieldRegenStartTime = 3,
             ShieldSize = 6,
-            ShieldVerticalOffset = -3,
+            ShieldVerticalOffset = -1,
         },
     },
     Display = {
