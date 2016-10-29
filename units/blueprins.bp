@@ -19,6 +19,9 @@ UnitBlueprint {
             ShieldVerticalOffset = -3,
         },
     },
+	Economy = {
+        MaintenanceConsumptionPerSecondEnergy = 200,
+    },
 
 }
 
