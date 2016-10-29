@@ -23,8 +23,15 @@ UnitBlueprint {
         },
 	},
 	General = {
-        CommandCaps = {
-            RULEUCC_Pause = true,
+		OrderOverrides = {
+            RULEUTC_ShieldToggle = {
+                bitmapId = 'shield-dome',
+                helpText = 'toggle_shield_dome',
+            },
+        },
+        TechLevel = 'RULEUTL_Advanced',
+        ToggleCaps = {
+            RULEUTC_ShieldToggle = true,
         },
 	},
 	Defense = {
